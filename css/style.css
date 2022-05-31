@@ -1,6 +1,10 @@
 body{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     display:flex;
     flex-direction: column;
+    background-image: url(https://wallpaperaccess.com/full/1386869.png);
+    background-size: cover;
+    color: whitesmoke;
   }
   h1, h2, form, button, div, h3{
     align-self: center;
